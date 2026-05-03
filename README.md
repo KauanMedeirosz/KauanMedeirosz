@@ -29,16 +29,6 @@ Focado em desenvolvimento Backend com Java, APIs e automação de processos com 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uipath/uipath-original.svg" width="40"/>
-</p>
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=KauanMedeirosz&show_icons=true&theme=tokyonight"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanMedeirosz&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
